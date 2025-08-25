@@ -1,0 +1,12 @@
+git config --global user.name Doardo9x 
+git config --global user.email eduardo010304@gmail.com
+
+npx create-expo-app@latest doardoDelivery
+
+npm run reset-project
+
+--Criar pasta constants
+--Arquivo Colors.ts na pasta constants
+
+--Criar pastas components
+--Arquivo CustomHeader.tsx e executar rnfs
